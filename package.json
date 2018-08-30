@@ -1,12 +1,13 @@
 {
-  "name": "lh-4241-simple-node",
+  "name": "a1-gettingstarted",
   "version": "0.1.0",
   "description": "WPI CS 4241 first assignment",
-  "author": "Lane Harrison",
+  "author": "Dylan Richardson",
   "private": true,
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
+    "express": "^4.16.3"
   }
 }
